@@ -1,6 +1,6 @@
 === Transport and Business Locator ===
 Contributors: bobcares_plugins
-Tags: place_locator,atm_locator,bus_station_locator, pharmacy_locator, church_locator, mosque_locator, movie_theatre_locator
+Tags: place locator,atm locator,bus station locator, pharmacy locator, church locator, mosque locator, movie theatre locator
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.0
